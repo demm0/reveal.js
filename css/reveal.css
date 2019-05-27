@@ -1374,6 +1374,7 @@ body {
   left: 0;
   top: 45%;
   width: 100%;
+  
   text-align: center;
   letter-spacing: normal; }
 
@@ -1412,7 +1413,7 @@ body {
 .reveal > .overlay.overlay-help .viewport .viewport-inner table th,
 .reveal > .overlay.overlay-help .viewport .viewport-inner table td {
   width: 200px;
-  padding: 14px;
+  padding: 24px;
   border: 1px solid #fff;
   vertical-align: middle; }
 
